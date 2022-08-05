@@ -1,0 +1,29 @@
+{
+  "perfil": [
+    {
+      "nombre": "Marco",
+      "email": "macon.32gos@gmail.com",
+      "id": "aea938a3-9fb3-4b21-b5e5-b1bf81c5544d"
+    },
+    {
+      "nombre": "Pedro",
+      "email": "pedro.nrg@gmail.com",
+      "id": "881bbfb0-dbed-4514-9059-d40b2fc0275a"
+    },
+    {
+      "nombre": "Alejandro",
+      "email": "castro.alejandro17@gmail.com",
+      "id": "fd730da7-12df-43c0-91f9-7ede3d8a3cbb"
+    },
+    {
+      "nombre": "Carlos",
+      "email": "carls.strd@gmail.com",
+      "id": "244f7d61-230a-4008-ab39-ac0ec1aa0ef3"
+    },
+    {
+      "nombre": "Rancho",
+      "email": "panchoranchop.resw@gmail.com",
+      "id": "5d811771-e42a-422c-9609-3b28f4ffe9e8"
+    }
+  ]
+}
